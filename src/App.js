@@ -1,25 +1,17 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import About from './components/About';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        // the below is a language called JSX that can represent HTML in JavaScript
+        // Think of functions that return JSX as functions that use document.createElement(JSX)
+        <div>
+            <main>
+                <About></About>
+            </main>
+        </div>
+    )
 }
 
 export default App;
