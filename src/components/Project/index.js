@@ -9,7 +9,7 @@ import budgetTracker from "../../assets/images/budget-tracker-SS.png"
 function Project() {
 
     return (
-        <section id="work">
+        <section id="portfolio">
             <h2>Projects</h2>
             <article class="work">
                 <div class="work-projects">
