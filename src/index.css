@@ -1,9 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-  }
-
-  /* apply styles to body starts */
+/* apply styles to body starts */
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(80, 80, 80);
@@ -69,24 +64,7 @@ header nav a {
 }
 /* apply styles to About Me Section ends */
 
-/* apply styles to Work Section starts */
-
-.pokebook {
-    display: flex;
-    justify-content: space-evenly;
-}
-
-.pokebook h3 {
-    display: flex;
-    justify-content: center;
-}
-
-.pokebook img {
-    border-style: outset;
-    max-width: 100%;
-    margin: 10px;
-}
-
+/* apply styles to Project Section starts */
 .work-projects {
     display: flex;
     flex-wrap: wrap;
@@ -94,32 +72,11 @@ header nav a {
 }
 
 
-.run-buddy {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.run-buddy h3 {
-    text-align: center;
-}
-
-.run-buddy img {
-    width: 100%;
-}
-
-.pwd-generator {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.pwd-generator h3 {
-    text-align: center;
-}
-
-.pwd-generator img {
-    width: 100%;
+.img-thumbnail {
+    width: 400px;
+    height: 300px;
+    margin-bottom: 50px;
+    cursor: pointer;
 }
 
 /* apply styles to Work Section ends */
@@ -153,10 +110,6 @@ header nav a {
   
     header nav ul li a {
       font-size: 20px;
-    }
-
-    .work {
-        flex: 0 70%;
     }
 }
 
