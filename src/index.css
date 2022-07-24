@@ -90,6 +90,23 @@ header nav a {
 }
 /* apply styles to Contact Section ends */
 
+/* apply styles to Footer Section Starts */
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(200, 200, 200);
+}
+
+footer div {
+    margin: 30px;
+    font-size: 36px;
+}
+
+footer div a {
+    color: red;
+}
+/* apply styles to Footer Section ends */
+
 /* apply to mobile device screens under 980px */
 @media screen and (max-width: 980px) {
     header {
