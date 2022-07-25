@@ -1,10 +1,7 @@
 import React from 'react';
 import './App.css';
-import About from './components/About';
 import Header from './components/Header';
-import Project from './components/Project'
 import Footer from './components/Footer'
-import Contact from './components/Contact'
 
 function App() {
     return (
@@ -13,9 +10,6 @@ function App() {
         <div>
             <Header></Header>
             <main>
-                <About></About>
-                <Project></Project>
-                <Contact></Contact>
             </main>
             <Footer></Footer>
         </div>

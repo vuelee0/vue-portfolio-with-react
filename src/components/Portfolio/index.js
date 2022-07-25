@@ -6,7 +6,7 @@ import pwdGenerator from "../../assets/images/Pwd Generator.png"
 import tripPlanner from "../../assets/images/Trip Planner.png"
 import budgetTracker from "../../assets/images/budget-tracker-SS.png"
 
-function Project() {
+function Portfolio() {
 
     return (
         <section id="portfolio">
@@ -49,4 +49,4 @@ function Project() {
     )
 }
 
-export default Project;
+export default Portfolio;

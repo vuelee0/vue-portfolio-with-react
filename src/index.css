@@ -60,19 +60,6 @@ header a {
     color: rgb(255,255,255);
     text-decoration: none;
 }
-
-header nav ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    list-style: none;
-    padding: 1em;
-}
-
-header nav a {
-    padding: 25px;
-}
 /* apply styles to header ends */
 
 /* apply styles to About Me Section starts */
