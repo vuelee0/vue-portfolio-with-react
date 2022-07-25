@@ -61,5 +61,8 @@ For any questions about this project, contact me at:
 - Github: [vuelee0](https://github.com/vuelee0)
 - Email: vuelee09@gmail.com
 
+## Deployed Application
+https://vuelee0.github.io/vue-portfolio-with-react/
+
 ## Screenshots
 ![image](./public/react-portfolio-SS.png)
