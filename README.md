@@ -62,4 +62,4 @@ For any questions about this project, contact me at:
 - Email: vuelee09@gmail.com
 
 ## Screenshots
-![image](./public/.png)
+![image](./public/react-portfolio-SS.png)
