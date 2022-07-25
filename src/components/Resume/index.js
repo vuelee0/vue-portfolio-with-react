@@ -1,25 +1,38 @@
 import React from 'react';
-import avatarImage from "../../assets/images/Avatar.png"
 
 function Resume() {
 
     return(
         <div>
-            <section id="about-me" class="bio">
-                <h2>About Me</h2>
+            <section>
+                <h2>Resume</h2>
                 <article>
-                    <div class="avatar">
-                        <img src={avatarImage} alt="display avatar" style={{ width:"25%" }} />
-                    </div>
+                    <h1>Proficiencies</h1>
+                    <br />
+                    <h3>Front End</h3>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>React</li>
+                    </ul>
+                    <br />
+                    <h3>Back End</h3>
+                    <ul>
+                        <li>ExpressJS</li>
+                        <li>NodeJS</li>
+                    </ul>
+                    <br />
+                    <h3>Databases</h3>
+                    <ul>
+                        <li>MySQL</li>
+                        <li>MongoDB</li>
+                    </ul>
+                    <br />
                     <div>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedi
-                            t nemo commodi suscipit iste harum nulla doloremque saepe debit
-                            is blanditiis rerum nisi nostrum obcaecati sapiente minus, libe
-                            ro fuga quia quae autem.
-                        </p>
+                        <a href={require("../../assets/resume.pdf")} download className="download">Download Resume</a>
                     </div>
-                </article>
+                    </article>
             </section>
         </div>
     )
