@@ -112,6 +112,11 @@ footer div a {
 }
 /* apply styles to Footer Section ends */
 
+.github-icon a {
+    color: red;
+    font-size: 24px;
+}
+
 /* apply to mobile device screens under 980px */
 @media screen and (max-width: 980px) {
     header {
