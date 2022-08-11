@@ -1,4 +1,5 @@
 import React from 'react';
+import gymBuddy from "../../assets/images/Gym-Buddy.png"
 import pokeBook from "../../assets/images/PokeBook.gif"
 import photoPort from "../../assets/images/Photo Port.png"
 import runBuddy from "../../assets/images/Run Buddy.png"
@@ -16,6 +17,14 @@ function Portfolio() {
             <article class="work">
                 <p>*Click the image for the live deployed application*</p>
                 <div class="work-projects">
+                    <div>
+                        <div class="github-icon">
+                            <a href="https://github.com/vuelee0/gym-buddy"><FontAwesomeIcon icon={faGithub} /> Gym Buddy</a>
+                        </div>
+                        <a href="https://gym--buddy.herokuapp.com/">
+                        <img src={gymBuddy} alt="Gym Buddy" class="img-thumbnail" />
+                        </a>
+                    </div>
                     <div>
                         <div class="github-icon">
                             <a href="https://github.com/vuelee0/PokeBook"><FontAwesomeIcon icon={faGithub} /> PokeBook</a>
