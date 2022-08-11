@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/vue-portfolio-with-react/static/css/main.78b954ee.css",
-    "main.js": "/vue-portfolio-with-react/static/js/main.b579a30c.js",
+    "main.js": "/vue-portfolio-with-react/static/js/main.dedf4c87.js",
     "static/js/787.2d095172.chunk.js": "/vue-portfolio-with-react/static/js/787.2d095172.chunk.js",
     "static/media/PokeBook.gif": "/vue-portfolio-with-react/static/media/PokeBook.486d77a6dca0798a91d6.gif",
     "static/media/Photo Port.png": "/vue-portfolio-with-react/static/media/Photo Port.449f0d723abef70e7542.png",
+    "static/media/Gym-Buddy.png": "/vue-portfolio-with-react/static/media/Gym-Buddy.754cb08b63388ef708a0.png",
     "static/media/Trip Planner.png": "/vue-portfolio-with-react/static/media/Trip Planner.308d3fcc454648d02804.png",
     "static/media/Run Buddy.png": "/vue-portfolio-with-react/static/media/Run Buddy.3f88da98668cb288a1a9.png",
     "static/media/budget-tracker-SS.png": "/vue-portfolio-with-react/static/media/budget-tracker-SS.aecad69baa4101c4c739.png",
@@ -13,11 +14,11 @@
     "static/media/resume.pdf": "/vue-portfolio-with-react/static/media/resume.a0dd4ecee42534d1aa88.pdf",
     "index.html": "/vue-portfolio-with-react/index.html",
     "main.78b954ee.css.map": "/vue-portfolio-with-react/static/css/main.78b954ee.css.map",
-    "main.b579a30c.js.map": "/vue-portfolio-with-react/static/js/main.b579a30c.js.map",
+    "main.dedf4c87.js.map": "/vue-portfolio-with-react/static/js/main.dedf4c87.js.map",
     "787.2d095172.chunk.js.map": "/vue-portfolio-with-react/static/js/787.2d095172.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78b954ee.css",
-    "static/js/main.b579a30c.js"
+    "static/js/main.dedf4c87.js"
   ]
 }
