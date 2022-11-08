@@ -13,10 +13,9 @@ function About() {
                     </div>
                     <div>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedi
-                            t nemo commodi suscipit iste harum nulla doloremque saepe debit
-                            is blanditiis rerum nisi nostrum obcaecati sapiente minus, libe
-                            ro fuga quia quae autem.
+                        Full stack web developer with a background in Technical Support.  Earned a certificate 
+                        in MERN Full Stack Web Development from the University of Minnesota Coding Boot Camp.  
+                        Extensive background in IT support and providing excellent service to diverse clients. 
                         </p>
                     </div>
                 </article>
